@@ -6,4 +6,4 @@ Official Writeups of Challenges made by me in 1337UP CTF
   - Warmup Encoder
 
 - OSINT
-  @0pt1muspr1me
+  - @0pt1muspr1me
